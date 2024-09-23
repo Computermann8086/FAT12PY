@@ -1,1 +1,1 @@
-
+class FS_OBJ
